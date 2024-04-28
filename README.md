@@ -1,21 +1,6 @@
 
-
 ![Thumbnail](/assets/images/nexgen-logo1.png)
 ![Thumbnail2](/assets/images/nexgen-logo1.png)
-[![pages-build-deployment](https://github.com/dewanakl/undangan/actions/workflows/pages/pages-build-deployment/badge.svg?branch=3.x)](https://github.com/dewanakl/undangan/actions/workflows/pages/pages-build-deployment)
-![Hits](https://dikit.my.id/0b3y8q)
-
-## Demo
-
-<https://dewanakl.github.io/undangan/?to=Teman+teman+semua>
-
-### Deployment API
-
-- Vercel
-[https://dikit.my.id/DeploymentApiVercel](https://dikit.my.id/DeploymentApiVercel)
-
-- Hosting
-[https://dikit.my.id/DeploymentApiHosting](https://dikit.my.id/DeploymentApiHosting)
 
 ### Tech stack
 
