@@ -1,3 +1,5 @@
+
+
 html {
     scroll-behavior: smooth !important;
     scrollbar-width: none !important;
@@ -7,6 +9,10 @@ body {
     font-family: 'Josefin Sans', sans-serif !important;
     padding: 0 !important;
 }
+
+/* .font-esthetic {
+    font-family: 'Sacramento', cursive !important;
+} */
 
 .font-esthetic {
     font-family: 'Sacramento', cursive !important;
